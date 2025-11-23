@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: vladmgb/docker-app:v1.0.19
+        image: vladmgb/docker-app:v1.0.20
         ports:
         - containerPort: 80
         resources:
